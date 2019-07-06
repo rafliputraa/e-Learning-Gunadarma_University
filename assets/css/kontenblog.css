@@ -1,0 +1,40 @@
+.konten:first-child	{
+	border-top: 1px solid #dadada;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: rgb(218, 218, 218);
+}
+
+.konten {
+	padding: 45px 50px;
+    padding-top: 45px;
+    padding-right: 50px;
+    padding-bottom: 45px;
+    padding-left: 50px;
+	background-color: #FAFFFA;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(218, 218, 218);
+    border-right-color: rgb(218, 218, 218);
+    border-bottom-color: rgb(218, 218, 218);
+    border-left-color: rgb(218, 218, 218);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+	border-top: none;
+    border-top-width: medium;
+    border-top-style: none;
+    border-top-color: currentcolor;
+}
